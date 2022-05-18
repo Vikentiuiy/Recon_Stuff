@@ -65,3 +65,4 @@ nmap -sV --script vnc-info,realvnc-auth-bypass,vnc-title -v -p <PORT> <IP>
 nmap --script =/your-scripts
 ````
 ### Dirbuster
+* [Guide](https://www.hackingarticles.in/comprehensive-guide-on-dirbuster-tool/)
