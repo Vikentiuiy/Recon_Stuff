@@ -31,6 +31,9 @@ dnsrecon -r 157.240.221.35/24 -n 8.8.8.8 #Using google dns
 * [Wappalyzer - Identify technologies on websites](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 * [Flagfox - Multitude of tools such as site safety checks, whois, translation](https://addons.mozilla.org/en-US/firefox/addon/flagfox/)
 ## Active reconnaissance
+### Scapy
+> Scapy is a Python program that enables the user to send, sniff and dissect and forge network packets. This capability allows construction of tools that can probe, scan or attack networks.
+* [Documentation](https://scapy.readthedocs.io/en/latest/index.html)
 ### Nmap
 > TCP 
 ````
